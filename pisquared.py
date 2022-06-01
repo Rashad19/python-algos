@@ -19,7 +19,6 @@ def pisquared(n):
 def pi(n):
 
 	pi = math.sqrt(pisquared(n))
-	print('pi is %f' %pi)
 	return pi
 
 
