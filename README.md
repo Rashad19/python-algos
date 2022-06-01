@@ -4,7 +4,7 @@ python algorithms & data structures written for fun and learning.
 This repository implements core algorithms & data structures taught in a CS degree
 
 
-# Algorithms
+**Algorithms**
 
 - binary search
 - merge sort
@@ -12,7 +12,7 @@ This repository implements core algorithms & data structures taught in a CS degr
 - heap sort
 - recursive algorithms
 
-# Data structures
+**Data structures**
 
 - stack
 - heap
