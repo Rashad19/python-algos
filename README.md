@@ -1,12 +1,12 @@
-# python-algos
+# python Algorithms \& Data structures
 
-python algorithms & data structures written for fun and learning. 
-This repository implements core algorithms & data structures taught in a CS degree
+This repository implements core algorithms & data structures taught in a CS degree using python
 
+---
 
 **Algorithms**
 
-- binary search
+- [binary search](binary-search)
 - merge sort
 - quick sort
 - heap sort
@@ -19,13 +19,4 @@ This repository implements core algorithms & data structures taught in a CS degr
 - Queues
 
 
-```py
-
-class Algorithms():
-
-  def __init__(self):
-  
-    self.x = 1
-    self.y = 2
-
-```
+### binary search
