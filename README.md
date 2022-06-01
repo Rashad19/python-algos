@@ -19,4 +19,13 @@ This repository implements core algorithms & data structures taught in a CS degr
 - Queues
 
 
-`class Algorithms`
+```py
+
+class Algorithms():
+
+  def __init__(self):
+  
+    self.x = 1
+    self.y = 2
+
+```
