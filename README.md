@@ -20,3 +20,5 @@ This repository implements core algorithms & data structures taught in a CS degr
 
 
 ### binary search
+
+This algorithm uses a class interface in `binarysearch.py`and implements the binary search algorithm using for a sorted array in ascending order and it uses an iterative method.
