@@ -19,3 +19,4 @@ This repository implements core algorithms & data structures taught in a CS degr
 - Queues
 
 
+`class Algorithms`
