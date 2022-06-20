@@ -6,11 +6,12 @@ This repository implements core algorithms & data structures taught in a CS degr
 
 **Algorithms**
 
-- [binary search](binary-search)
+- [binary search](#binary-search)
 - merge sort
 - quick sort
 - heap sort
-- recursive algorithms
+- [recursive algorithms](#recursive-algorithms)
+- miscellaneous
 
 **Data structures**
 
@@ -21,4 +22,7 @@ This repository implements core algorithms & data structures taught in a CS degr
 
 ### binary search
 
-This algorithm uses a class interface in `binarysearch.py`and implements the binary search algorithm using for a sorted array in ascending order and it uses an iterative method.
+This algorithm uses a class interface in `binarysearch.py` and implements the binary search algorithm for a sorted array in ascending order and it uses an iterative method.
+
+
+### recursive algorithms

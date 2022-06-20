@@ -1,8 +1,10 @@
+# This function calculates pisquared using the partial sum
+# (1/6)*piˆ2 = sum from 1 to k of 1/kˆ2. This value is then used to
+# calculate pi.
+
 
 import math
 
-#This function calculates pisquared using the partial sum
-#(1/6)*piˆ2 = sum from 1 to k of 1/kˆ2
 def pisquared(n):
 
 	result = 0.0
@@ -20,8 +22,3 @@ def pi(n):
 
 	pi = math.sqrt(pisquared(n))
 	return pi
-
-
-pi(600)	
-
-
