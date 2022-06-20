@@ -6,6 +6,7 @@ n = 0 is reached.
 """
 
 def pow_of_two(n):
+
 	# base case
 	if n ==0:
 		return 1
