@@ -6,7 +6,7 @@ This repository implements core algorithms & data structures taught in a CS degr
 
 **Algorithms**
 
-- [binary search](binary-search)
+- [binary search](# binary-search)
 - merge sort
 - quick sort
 - heap sort
